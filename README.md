@@ -1,4 +1,4 @@
-# iam_mobile
+# My Boilerplate Flutter
 
 A new Flutter project.
 
